@@ -1,0 +1,20 @@
+
+.header{
+  height: 100px;
+  text-align: left;
+  background-color: antiquewhite;
+
+}
+.heading{
+  text-align: center;
+}
+List{
+  padding: 20px;
+}
+.inputfield{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 500px;
+  padding: 20px;
+}
+
